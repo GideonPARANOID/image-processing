@@ -16,4 +16,4 @@ Other functions:
 
 The main for the project is in the GUI - https://github.com/GideonPARANOID/image-processing/blob/master/src/uk/ac/aber/gij2/cs241/Project/gui/GUI.java
 
-Please note that it is not perfect & some techniques do not work exactly as intended - a work in progress.
+Please note that it is not perfect & some techniques do not work exactly as intended.
